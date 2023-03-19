@@ -1,10 +1,10 @@
 ## Olá, eu sou o Mateus Montagnini!
 
- 🖥 Desenvolvedor Back-End
+ 🖥 Desenvolvedor **Back-End**
 
  🌱 Atualmente graduando em **Engenharia de Computação**
 
- 💼 Ferramentas: **VSCode, Trello, Notion, Slack e GitHub.**
+ 💼 Ferramentas: **VSCode, Trello, Notion, Slack, Git e GitHub.**
  
  ##
  
