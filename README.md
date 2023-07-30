@@ -10,10 +10,10 @@
 
 <div>
  <a href="https://github.com/mateus-montagnini/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-montagnini&show_icons=true&theme=radical" />
+  <img width="50%"  height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-montagnini&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/mateus-montagnini/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-montagnini&layout=compact&&theme=radical&langs_count=8&card_width=320" />
+  <img width="42%"  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-montagnini&layout=compact&&theme=radical&langs_count=8&card_width=320" />
 </a>
 <div/>
  
