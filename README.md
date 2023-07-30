@@ -15,7 +15,7 @@
 <a href="https://github.com/mateus-montagnini/convoychat">
   <img width="42%"  height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-montagnini&layout=compact&&theme=radical&langs_count=8&card_width=320" />
 </a>
-<div/>
+</div>
  
 
 ##
@@ -32,8 +32,11 @@
 
 ##
 
+
+<div>
   <a href = "mailto:mateus.r.montagnini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-montagnini-8070001a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
   
   
  
