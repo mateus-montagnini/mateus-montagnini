@@ -8,15 +8,14 @@
 
  ##
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus-montagnini&show_icons=true&theme=radical)
- 
- ##
 
- <div>
-  <a href="https://github.com/mateus-montagnini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-montagnini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-montagnini&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+ <a href="https://github.com/mateus-montagnini/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mateus-montagnini&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/mateus-montagnini/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-montagnini&layout=compact&&theme=radical&langs_count=8&card_width=320" />
+</a>
+ 
 
 ##
 
