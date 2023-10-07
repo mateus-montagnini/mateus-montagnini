@@ -21,7 +21,7 @@
 ##
 
 <div style="display: inline_block">
-<h3 align="left">Tecnologias:</h3>
+<h3 align="left">Principais Tecnologias:</h3>
  <img align="center" alt="java" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  <img align="center" alt="spring" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
  <img align="center" alt="mysql" height="65" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
