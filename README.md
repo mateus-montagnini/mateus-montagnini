@@ -4,7 +4,7 @@
 
  🌱 Atualmente graduando em **Engenharia de Computação**
 
- 💼 Ferramentas: **VSCode, Slack, Git e GitHub.**
+ 💼 Ferramentas: **VSCode, IntelliJ, Linux, Git e GitHub.**
 
  ##
 
